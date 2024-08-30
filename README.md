@@ -4,11 +4,12 @@
 
 <p>This is the place where I opensource stuff and break things</p>
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Kotlin Multiplatform, Go
-- 💬 &nbsp;Ask me about anything related to Android | Java | Kotlin | iOS | Swift
-- 👨‍💻 &nbsp;Read more about my projects at [eduardocalzado.es](https://web.eduardocalzado.es/#works)
-- ⚡ &nbsp;Fun fact: I :heart: my 🐈‍⬛ (Río) and PlayStation <img src="https://cdn-icons-png.flaticon.com/512/588/588258.png" width="13"/> (GamerTag: [eduflash_87](https://www.playstation.com/es-es/?onlinename=eduflash_87))
+- 🔭 &nbsp;I’m currently working on something cool :wink:. I'll let you know!
+- 🌱 &nbsp;I’m learning Kotlin Multiplatform & GOlang
+- 💬 &nbsp;Ask me about anything related to Android | Java | Kotlin | iOS | Swift | UI | UX
+- 👨‍💻 &nbsp;Read my articles at medium [eduardocalzado.medium.com](https://eduardocalzado.medium.com) and [suscribe](https://eduardocalzado.medium.com/subscribe)! 
+- 🏠 &nbsp;Visit my website and follow my works at [eduardocalzado.es](https://web.eduardocalzado.es/#works)
+- ⚡ &nbsp;Fun facts: I am father of a 👶 (Nico), I :heart: my 🐈‍⬛ (Río) and when I have the chance I try to be a 🎮 <img src="https://cdn-icons-png.flaticon.com/512/588/588258.png" width="13"/> (GamerTag: [eduflash_87](https://www.playstation.com/es-es/?onlinename=eduflash_87))
 
 <h3>Things I code with</h3>
 <p>
@@ -35,7 +36,8 @@
 </br>
 <p align="center"> You can find me here! </p>
 <p align="center">
+  <a href="https://eduardocalzado.medium.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/medium-white?style=for-the-badge&logo=medium&logoColor=black" /></a> 
+    <a href="https://www.linkedin.com/in/eduardo-calzado" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://github.com/eduardo-calzado" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://x.com/EduardoCalzado" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/eduardo-calzado" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://x.com/EduardoCalzado" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
