@@ -5,7 +5,8 @@
 <p>This is the place where I opensource stuff and break things</p>
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:. I'll let you know!
-- 🌱 &nbsp;I’m learning Kotlin Multiplatform & GOlang
+- 🤖 &nbsp;Riding the AI wave!
+- 🌱 &nbsp;Working on a daily basis with Kotlin, iOS, KMP, and Go
 - 💬 &nbsp;Ask me about anything related to Android | Java | Kotlin | iOS | Swift | UI | UX
 - 👨‍💻 &nbsp;Read my articles at medium [eduardocalzado.medium.com](https://eduardocalzado.medium.com) and [suscribe](https://eduardocalzado.medium.com/subscribe)! 
 - 🏠 &nbsp;Visit my website and follow my works at [eduardocalzado.es](https://web.eduardocalzado.es/#works)
