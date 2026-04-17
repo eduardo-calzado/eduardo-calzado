@@ -9,7 +9,7 @@
 - 🌱 &nbsp;Working on a daily basis with Kotlin, iOS, KMP, and Go
 - 💬 &nbsp;Ask me about anything related to Android | Java | Kotlin | iOS | Swift | UI | UX
 - 👨‍💻 &nbsp;Read my articles at medium [eduardocalzado.medium.com](https://eduardocalzado.medium.com) and [suscribe](https://eduardocalzado.medium.com/subscribe)! 
-- 🏠 &nbsp;Visit my website and follow my works at [eduardocalzado.es](https://web.eduardocalzado.es/#works)
+- 🏠 &nbsp;Visit my website and follow my works at [eduardocalzado.com](https://eduardocalzado.com/#works)
 - ⚡ &nbsp;Fun facts: I am father of a 👶 (Nico), I :heart: my 🐈‍⬛ (Río) and when I have the chance I try to be a 🎮 <img src="https://cdn-icons-png.flaticon.com/512/588/588258.png" width="13"/> (GamerTag: [eduflash_87](https://www.playstation.com/es-es/?onlinename=eduflash_87))
 
 <h3>Things I code with</h3>
